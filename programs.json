@@ -1,0 +1,44 @@
+[
+    {
+        "name": "AIDA64 Extreme",
+        "description": "Утилита для подробной информации о ПК",
+        "icon": "icons\\7.ico",
+        "url": "https://download.aida64.com/aida64extreme750.exe"
+    },
+    {
+        "name": "CrystalDiskInfo",
+        "description": "Утилита для мониторинга состояния накопителей",
+        "icon": "icons\\7.ico",
+        "url": "https://downloads.sourceforge.net/project/crystaldiskinfo/9.5.0/CrystalDiskInfo9_5_0.exe?ts=gAAAAABns22lipJAOaxmRZ40udmc74fJpz8awc16fhI-ix2BqiekPz_P79demeqbomSoiHA8rnxXZCWBaLKuSrAXCyDQ8J5_Vg%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fcrystaldiskinfo%2Ffiles%2Flatest%2Fdownload"
+    },
+    {
+        "name": "HWInfo",
+        "description": "Подробный мониторинг ресурсов ПК",
+        "icon": "icons\\7.ico",
+        "url": "https://www.sac.sk/download/utildiag/hwi_820x.exe"
+    },
+    {
+        "name": "WizTree",
+        "description": "Утилита для удобного просмотра файлов на ПК",
+        "icon": "icons\\7.ico",
+        "url": "https://diskanalyzer.com/files/wiztree_4_24_setup.exe"
+    },
+    {
+        "name": "FurMark",
+        "description": "Стресс-тест ГП",
+        "icon": "icons\\7.ico",
+        "url": "https://geeks3d.com/dl/get/738"
+    },
+    {
+        "name": "Обход Discord-YouTube",
+        "description": "Утилита",
+        "icon": "icons\\7.ico",
+        "url": "https://github.com/Flowseal/zapret-discord-youtube/archive/refs/heads/main.zip"
+    },
+    {
+        "name": "MSI Afterburner",
+        "description": "Утилита для настройки ГП",
+        "icon": "icons\\7.ico",
+        "url": "https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1739966464~acl=/*~hmac=2d6e84f0f184d20e488ff0f6d5e850ca2cc6739800c8b9f41d5bc8bce7b32150"
+    }
+]
